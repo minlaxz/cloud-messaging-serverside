@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 firebase/serviceKey.json
+./response.log
